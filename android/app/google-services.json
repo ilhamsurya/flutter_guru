@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066300678217",
+    "firebase_url": "https://flutterguru-b2bbe.firebaseio.com",
+    "project_id": "flutterguru-b2bbe",
+    "storage_bucket": "flutterguru-b2bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066300678217:android:d12c0976794dd388b55f98",
+        "android_client_info": {
+          "package_name": "com.example.flutter_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066300678217-i0e292gm1dree769ioktedqhmbts1itm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--RuhUVNz7vmXp83IIRV843HNawUppRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066300678217-i0e292gm1dree769ioktedqhmbts1itm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
